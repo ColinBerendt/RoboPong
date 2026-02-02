@@ -10,7 +10,7 @@ Autonomous robot system that plays Beer Pong using voice commands, computer visi
 
 **Colin Berendt, Yannik Holenstein, Robin Sutter**  
 University of St.Gallen (HSG)
-Course: Robotics
+Course: Introduction to Robotics
 
 ---
 
